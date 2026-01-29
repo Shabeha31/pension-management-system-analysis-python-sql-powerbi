@@ -116,7 +116,7 @@ pension-management-system-analysis/
 4. **Line Chart:** Retirement trends over time
 5. **Histogram:** Distribution of pension values  
 
-![Pension Analysis Dashboard](images/dashboard_img.png)
+![Pension Analysis Dashboard](Images/Dashboard_img.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
