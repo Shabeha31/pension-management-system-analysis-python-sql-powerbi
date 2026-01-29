@@ -144,4 +144,4 @@ pension-management-system-analysis/
 **Shabeha khan**  
 Data Analyst  
 📧 Email: shabehakhan4@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shabehazaman-khan-data-analyst/)  
+🔗 LinkedIn: https://www.linkedin.com/in/shabehazaman-khan-data-analyst/ 
