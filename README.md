@@ -137,7 +137,7 @@ pension-management-system-analysis/
 - Maintain consistent data cleaning and privacy-masking procedures to uphold data governance and regulatory standards.
 - Leverage interactive Power BI dashboards for ongoing monitoring of pension trends and liabilities.
 - Automate the ETL pipeline to support scalable, repeatable pension data processing and reporting.
-- 
+  
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
